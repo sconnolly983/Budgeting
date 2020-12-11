@@ -5,6 +5,7 @@ body {
     background-image: url(https://cdn.pizap.com/pizapfiles/images/photo_backgrounds_textures_app05.jpg);
     background-size: cover;
     background-repeat: no-repeat;
+    background-position: center;
     font-size: 50px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     color: darkslategrey;

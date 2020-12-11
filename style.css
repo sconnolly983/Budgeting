@@ -1,0 +1,20 @@
+body {
+    margin: auto;
+    text-align: center;
+    justify-content: center;
+    background-image: url(https://cdn.pizap.com/pizapfiles/images/photo_backgrounds_textures_app05.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-size: 50px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: darkslategrey;
+}
+.main {
+    background-color: rgba(0, 0, 0, 0.5);
+    margin: 100px 100px;
+    color: black;
+}
+.main :hover {
+    color: skyblue;
+    cursor: pointer;
+}
